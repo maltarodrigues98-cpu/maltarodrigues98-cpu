@@ -1,16 +1,29 @@
-## Hi there 👋
+# Olá! 👋
 
-<!--
-**maltarodrigues98-cpu/maltarodrigues98-cpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo Paulo Henrique e sou estudante de Ciência da Computação.
 
-Here are some ideas to get you started:
+Atualmente estou desenvolvendo conhecimentos em:
+- Python
+- Lógica de Programação
+- Automação
+- Inteligência Artificial
+- Tecnologia da Informação
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Objetivo
+Busco oportunidade de estágio na área de Tecnologia da Informação para desenvolver experiência prática em programação, suporte técnico e automação.
+
+## Projetos
+📌 Classificação de Animais em Python  
+📌 Calculadora de Notas  
+📌 Exercícios de Lógica de Programação
+
+## Tecnologias
+- Python
+- GitHub
+- Excel
+- Inteligência Artificial
+
+## Contato
+📧 malta.rodrigues98@gmail.com  
+🔗 LinkedIn:
+www.linkedin.com/in/paulohmrodrigues
